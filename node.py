@@ -11,8 +11,8 @@ PING_INTERVAL = 30  # seconds
 RETRIES = 60  # Global retry counter for ping failures
 
 DOMAIN_API = {
-    "SESSION": "https://api.nodepay.ai/api/auth/session",
-    "PING": "https://nw2.nodepay.ai/api/network/ping"
+    "SESSION": "https://api.nodepay.org/api/auth/session",
+    "PING": "https://nw2.nodepay.org/api/network/ping"
 }
 
 CONNECTION_STATES = {
