@@ -1,1 +1,1 @@
-http://Username:Password@ip:port
+http://135.181.154.225:80
